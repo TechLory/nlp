@@ -22,6 +22,7 @@
 - [Linear classifiers and neural networks](./nlp/L1.2-linear-classifiers-and-nn.ipynb)
 
 #### Language models $\sim$ 3h
+- [Markov Language Model](./nlp/L2.0-statistical-language-models.ipynb)
 
 #### Neural networks as language models $\sim$ 3h
 
