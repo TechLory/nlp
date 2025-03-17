@@ -32,9 +32,9 @@
 - Recurrent neural networks and long short-term memory networks
 
 #### Transformers $\sim$ 9h
-- Transformers architecture
-- BERT
-- GPT
+- [Transformers architecture](../2023-24/nlp/transformers/transformers-explained.ipynb)
+- [BERT](../2023-24/nlp/BERT/bert-explained.ipynb)
+- [GPT](https://arena-chapter1-transformer-interp.streamlit.app/%5B1.1%5D_Transformer_from_Scratch)
 
 #### NLP applications  $\sim$ 3h
 
