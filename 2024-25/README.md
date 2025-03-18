@@ -20,15 +20,16 @@
 - [Classification problems](./nlp/L1.0-classification.ipynb)
 - [Introduction to Neural Networks](./nlp/L1.1-introduction-neural-networks.ipynb)
 - [Linear classifiers and neural networks](./nlp/L1.2-linear-classifiers-and-nn.ipynb)
+- [Tutorial on PyTorch (basics)](./nlp/L1.3-pytorch-basics.ipynb)
+- [Tutorial on PyTorch (deep learning)](./nlp/L1.4-deep-learning-pytorch.ipynb)
 
 #### Language models $\sim$ 3h
 - [Markov Language Model](./nlp/L2.0-statistical-language-models.ipynb)
 
 #### Neural networks as language models $\sim$ 3h
+- [Word2Vec and word embedding (basics)](./nlp/L3.0-w2w-basics.ipynb)
 
 #### Text encoding and sequence learning $\sim$ 6h
-
-- Word2Vec and word embedding
 - Recurrent neural networks and long short-term memory networks
 
 #### Transformers $\sim$ 9h
